@@ -9,4 +9,3 @@
   
 ---
 
-## 📚 Files and Descriptions
